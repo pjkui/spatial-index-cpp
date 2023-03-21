@@ -20,7 +20,9 @@
  */
 #pragma once
 
+#ifdef BOOST_BIG_ENDIAN
 #include <boost/detail/endian.hpp>
+#endif
 
 #include <algorithm>
 #include <cstring>
