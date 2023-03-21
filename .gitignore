@@ -1,3 +1,12 @@
 out/
 .vs/
 .vscode/
+bin/
+CMakeFiles/
+*.vcxproj.*
+*.vcxproj
+CMakeCache.txt
+*.sln
+*.dir/
+cmake_install*
+x64/
